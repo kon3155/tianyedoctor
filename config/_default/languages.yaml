@@ -4,17 +4,20 @@
 
 # Default language
 en:
+  title: 'Dr. Ye Tian Laboratory'
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  params:
+   description: 'Dr. Ye Tian Laboratory'
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
+zh:
+ languageCode: zh
+ contentDir: content/zh
+ title: 田野医生研究室
+ params:
+   description: '田野医生研究室'
 #  menu:
 #    main:
 #      - name: 传
