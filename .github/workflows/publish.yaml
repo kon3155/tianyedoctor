@@ -73,7 +73,7 @@ jobs:
       - name: Deploy To OSS
         run: |
           # 切换到代码目录
-          # cd repo
+          cd public
           # 强制删除oss中所有文件（这里要改）
           echo "Deleting files from OSS..."
           ossutil rm -r -f oss://tianyedoctor1/
