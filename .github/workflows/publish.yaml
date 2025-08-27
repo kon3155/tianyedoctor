@@ -50,45 +50,45 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify
+          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - name: Set up ossutil
-        run: |
-          # 下载 ossutil
-          curl -o ossutil64 http://gosspublic.alicdn.com/ossutil/1.6.7/ossutil64
-          chmod +x ossutil64
+      # - name: Set up ossutil
+      #   run: |
+      #     # 下载 ossutil
+      #     curl -o ossutil64 http://gosspublic.alicdn.com/ossutil/1.6.7/ossutil64
+      #     chmod +x ossutil64
           
-          # 创建 .local/bin 目录并移动 ossutil
-          mkdir -p $HOME/.local/bin
-          mv ossutil64 $HOME/.local/bin/ossutil
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
+      #     # 创建 .local/bin 目录并移动 ossutil
+      #     mkdir -p $HOME/.local/bin
+      #     mv ossutil64 $HOME/.local/bin/ossutil
+      #     echo "$HOME/.local/bin" >> $GITHUB_PATH
 
-      - name: Configure ossutil
-        run: |
-          ossutil config -e oss-cn-hongkong.aliyuncs.com -i ${{ secrets.OSS_KEY_ID }} -k ${{ secrets.OSS_KEY_SECRET }} -L CH
+      # - name: Configure ossutil
+      #   run: |
+      #     ossutil config -e oss-cn-hongkong.aliyuncs.com -i ${{ secrets.OSS_KEY_ID }} -k ${{ secrets.OSS_KEY_SECRET }} -L CH
 
-      - name: Deploy To OSS
-        run: |
-          # 切换到代码目录
-          cd public
-          # 强制删除oss中所有文件（这里要改）
-          echo "Deleting files from OSS..."
-          ossutil rm -r -f oss://tianyedoctor1/
+      # - name: Deploy To OSS
+      #   run: |
+      #     # 切换到代码目录
+      #     cd public
+      #     # 强制删除oss中所有文件（这里要改）
+      #     echo "Deleting files from OSS..."
+      #     ossutil rm -r -f oss://tianyedoctor1/
           
-          # 检查 OSS 中的文件（这里要改）
-          echo "Current files in OSS:"
-          ossutil ls oss://tianyedoctor1/
+      #     # 检查 OSS 中的文件（这里要改）
+      #     echo "Current files in OSS:"
+      #     ossutil ls oss://tianyedoctor1/
           
-          # 上传仓库（这里要改）
-          echo "Uploading new files to OSS..."
-          ossutil cp . oss://tianyedoctor1/ --recursive
+      #     # 上传仓库（这里要改）
+      #     echo "Uploading new files to OSS..."
+      #     ossutil cp . oss://tianyedoctor1/ --recursive
           
-          # 检查上传后的文件（这里要改）
-          echo "Files in OSS after upload:"
-          ossutil ls oss://tianyedoctor1/
+      #     # 检查上传后的文件（这里要改）
+      #     echo "Files in OSS after upload:"
+      #     ossutil ls oss://tianyedoctor1/
 
   # Deploy website to GitHub Pages hosting
   deploy:
