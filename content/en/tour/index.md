@@ -1,5 +1,5 @@
 ---
-title: 首页
+title: Tour
 date: 2022-10-24
 
 type: landing
@@ -12,6 +12,7 @@ sections:
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 0.jpg
             filters:
@@ -22,6 +23,7 @@ sections:
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 1.jpg
             filters:
@@ -32,71 +34,78 @@ sections:
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 2.png
             filters:
               brightness: 1.0
-            size: contain
+            size: auto
           position: center
       - title: 
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 3.png
             filters:
               brightness: 1.0
-            size: contain
+            size: auto
           position: center
       - title: 
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 4.png
             filters:
               brightness: 1.0
-            size: contain
+            size: auto
           position: center
       - title: 
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 5.png
             filters:
               brightness: 1.0
-            size: contain
+            size: auto
           position: center
       - title: 
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 6.png
             filters:
               brightness: 1.0
-            size: contain
+            size: auto
           position: center
       - title: 
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 7.png
             filters:
               brightness: 1.0
-            size: contain
+            size: auto
           position: center
       - title: 
         content: 
         align: center
         background:
+          color: '#282a36'
           image:
             filename: 8.png
             filters:
               brightness: 1.0
-            size: contain
+            size: auto
           position: center
         # link:
         #   icon: graduation-cap
@@ -108,7 +117,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # containmatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---
