@@ -13,7 +13,7 @@ sections:
             <div class="col-md-6">
               <div class="container">
                 <div class="photo-container">
-                  <img src="avatar.jpg" class="photo-circle">
+                  <img src="home/avatar.jpg" class="photo-circle">
                 </div>
                 <h3>Clinical work and Research fields</h3>
                 <p class="p-self">Dr. Ye Tian practices at the Department of Cardiothoracic Surgery of the Fourth Affiliated Hospital of China Medical University. The department serves as a key center in northern Shenyang for minimally invasive lung cancer treatment, digital integrated lung cancer diagnosis, and chest trauma care. It performs over a thousand surgeries annually and is dedicated to the secondary and tertiary prevention and treatment of lung cancer.</p>
@@ -25,34 +25,34 @@ sections:
               <div id="carouselControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="1.jpg" class="d-block w-100" alt="...">
+                    <img src="home/1.jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="2.png" class="d-block w-100" alt="...">
+                    <img src="home/2.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="3.png" class="d-block w-100" alt="...">
+                    <img src="home/3.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="4.png" class="d-block w-100" alt="...">
+                    <img src="home/4.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="5.png" class="d-block w-100" alt="...">
+                    <img src="home/5.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="6.png" class="d-block w-100" alt="...">
+                    <img src="home/6.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="7.png" class="d-block w-100" alt="...">
+                    <img src="home/7.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="8.png" class="d-block w-100" alt="...">
+                    <img src="home/8.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="9.png" class="d-block w-100" alt="...">
+                    <img src="home/9.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="10.png" class="d-block w-100" alt="...">
+                    <img src="home/10.png" class="d-block w-100" alt="...">
                   </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-target="#carouselControls" data-slide="prev">
