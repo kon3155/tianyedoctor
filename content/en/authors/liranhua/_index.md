@@ -10,11 +10,11 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kunming Medical University, Kunming, Yunnan Province
+  - name: Kunming Medical University Affiliated Hospital, Kunming, Yunnan Province.
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 30
+weight: 20
 user_groups:
   - Alumni
 

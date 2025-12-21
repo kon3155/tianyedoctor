@@ -10,7 +10,7 @@ role: Ph.D, Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Principal Investigator of Southern Medical University
+  - name: principal investigator of Southern Medical University.
 
 
 # Short bio (displayed in user profile at end of posts)

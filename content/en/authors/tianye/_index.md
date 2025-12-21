@@ -101,12 +101,18 @@ user_groups:
   - Leader
 ---
 
-I am a dual thoracic surgeon and tumor scientist, with research interests in clinical and basic research on lung cancer and other thoracic tumors. Thank you for taking an interest in our research. My primary appointment is within the Division of Thracic Surgery at the Fourth Affiliated Hospital of China Medical University, and our research group can be found within the No.6 Building. Current research interests include microinvasive therapy and ERAS in thoracic surgery, comprehensive research and therapy in lung cancers, physical training before/after thoracic surgery as well. Our work requires the intersection and collaboration of multiple disciplines, including collaborations within Oncology, Pathology, Physiology, and Computer Sciences.<br/><br/>
-I received my MD and Ph.D. degrees in Surgery from the China Medical University and completed my training as a Post-Doctoral Research Fellow in the Department of Surgical Pathology at Johns Hopkins University School of Medicine. My working experience is presented below:<br/>
+<p class="p-self">Dr. Tian Ye, MD, Ph.D, Postdoctoral Fellow at Johns Hopkins University School of Medicine (USA). Deputy Director of the First Department of Thoracic and Cardiac Surgery, The Fourth Affiliated Hospital of China Medical University; Associate Professor, Associate Chief Physician, and Master's Supervisor.
+Member of the Lung Nodules Specialty Committee of the China Anti-Cancer Association Rehabilitation Committee, Member of the Lung Cancer Specialty Committee of the Liaoning Anti-Cancer Association, and Council Member of the Liaoning Mediastinal Tumor Specialty Committee.</p>
+
+<p class="p-self">After earning a Master's degree in Medicine in 2008, Dr. Tian Ye began working at The Fourth Affiliated Hospital of China Medical University. With nearly 20 years of experience in thoracic surgery, his expertise focuses on minimally invasive diagnosis and treatment in thoracic surgery, comprehensive management of refractory thoracic tumors, and cutting-edge research. From 2018 to 2019, he conducted postdoctoral research at Johns Hopkins University School of Medicine, primarily engaged in molecular and pathological studies of lung cancer.</p>
+
+<p class="p-self">As the first author, he has published 8 high-impact SCI papers in journals such as Nature Communications, Annals of Thoracic Surgery, and Journal of Thoracic Diseases. He has presided over or participated in 5 provincial-level or higher projects, including the National Natural Science Foundation of China, with total funding amounting to nearly 800,000 RMB. Additionally, he has contributed as a key participant in two projects that received the Second Prize of Liaoning Provincial Science and Technology Progress Award.</p>
+<h5>Work Experience:</h5>
 
 <ul>
-  <li>2018---2019, Department of Surgical Pathology, Johns Hopkins University School of Medicine, Post-Doc.</li>
-  <li>2017---now, Division of Thoracic Surgery, China Medical University, Associate Professor.</li>
-  <li>2011---2017, Division of Thoracic Surgery, China Medical University, Assistant Professor.</li>
-  <li>2008---2011, Division of Thoracic Surgery, China Medical University, TA.</li>
+  <li>Sep 2025 - Present: Administrative Deputy Director, First Department of Thoracic and Cardiac Surgery, The Fourth Affiliated Hospital of China Medical University.</li>
+  <li>2018 - 2019: Postdoctoral Fellow, Surgical Pathology, Johns Hopkins University School of Medicine.</li>
+  <li>2017 - Present: Associate Professor, Department of Cardiothoracic Surgery, The Fourth Affiliated Hospital of China Medical University.</li>
+  <li>2011 - 2017: Assistant Professor, Department of Cardiothoracic Surgery, The Fourth Affiliated Hospital of China Medical University.</li>
+  <li>2008 - 2011: TA, Department of Cardiothoracic Surgery, The Fourth Affiliated Hospital of China Medical University.</li>
 </ul>

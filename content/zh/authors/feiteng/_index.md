@@ -10,7 +10,7 @@ role: 教授，博士生导师
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 东北大学生命科学与健康学院，PI
+  - name: 东北大学生命科学学院，PI
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

@@ -10,14 +10,14 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ''
+- name: 'Shenzhou Hospital of Shenyang Medical College'
   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 30
+weight: 70
 user_groups:
-  - Postgraduate students
+  - Alumni
 
 # Interests to show in About widget
 # interests:

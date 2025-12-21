@@ -10,7 +10,7 @@ role: 教授，博士生导师
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 中国医科大学附属第四医院
+  - name: 中国医科大学附属第四医院胸心外科
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

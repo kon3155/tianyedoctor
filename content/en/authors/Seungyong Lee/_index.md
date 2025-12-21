@@ -6,16 +6,16 @@ title: Seungyong Lee
 superuser: false
 
 # Role/position/tagline
-role: Ph.D, Assistant Professor
+role: Ph.D, assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Principal Investigator of Department of Physiology and Pharmacology at Midwestern University
+  - name: principal investigator of Department of Physiology and Pharmacology at Midwestern University.
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 60
+weight: 70
 user_groups:
   - Collaborators
 

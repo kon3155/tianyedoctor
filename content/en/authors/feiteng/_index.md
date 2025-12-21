@@ -10,7 +10,7 @@ role: Ph.D, Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Principal Investigator of Northeastern University
+  - name: principal investigator of Northeastern University.
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

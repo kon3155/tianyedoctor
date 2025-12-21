@@ -10,14 +10,14 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ''
+- name: Shenzhen People's Hospital, Shenzhen, Guangdong.
   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 20
+weight: 40
 user_groups:
-  - Postgraduate students
+  - Alumni
 
 # Interests to show in About widget
 # interests:

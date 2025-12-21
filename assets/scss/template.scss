@@ -7,3 +7,56 @@
 .cta-group {
   justify-content: center;
 }
+
+.navbar-brand{
+  width: auto;
+}
+
+.d-none {
+  align-items: center;
+}
+
+.d-none:lang(zh)::after{
+  content: "田野医生个人主页";
+  font-size: 1rem;
+}
+
+.d-none:lang(en-us)::after{
+  content: "Dr.Ye Tian's Homepage";
+  font-size: 1rem;
+}
+
+.article-container {
+  max-width: 100%;
+  padding: 0 20px;
+  margin: 0 auto; 
+}
+
+.p-self{
+  text-indent: 2em;
+  font-size: 0.8rem;
+}
+.photo-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+.photo-circle {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.photo-circle:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.25);
+}
+@media (max-width: 576px) {
+  .photo-circle {
+    width: 150px;
+    height: 150px;
+  }
+}

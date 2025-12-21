@@ -10,7 +10,7 @@ role: MD, Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Fourth Affiliated Hospital of China Medical University
+  - name: 4th affiliated hospital of China Medical University
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

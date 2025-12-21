@@ -6,7 +6,7 @@ title: 张展
 superuser: false
 
 # Role/position/tagline
-role: 硕士毕业
+role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -10,14 +10,14 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ''
+- name: 'Northern Theater General Hospital'
   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 40
+weight: 50
 user_groups:
-  - Postgraduate students
+  - Alumni
 
 
 # Interests to show in About widget

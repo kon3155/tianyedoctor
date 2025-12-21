@@ -6,11 +6,11 @@ title: Liwei Cao
 superuser: false
 
 # Role/position/tagline
-role: Ph.D, Assistant Professor
+role: Ph.D, associate professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Principal Investigator of Johns Hopkins University Medical School
+  - name: principal investigator of Southern University of Science and Technology.
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

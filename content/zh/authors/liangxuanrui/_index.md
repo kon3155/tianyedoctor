@@ -10,14 +10,14 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ''
+- name: '沈阳医学院附属沈洲医院血管外科'
   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-
+weight: 70
 user_groups:
-  - 研究生在读
+  - 毕业生
   
 # Interests to show in About widget
 # interests:

@@ -5,7 +5,7 @@
 
 main:
   - name: 首页
-    url: tour
+    url: home
     weight: 10
   - name: 动向
     url: post
@@ -19,6 +19,9 @@ main:
   - name: 成果
     url: mypublication
     weight: 50
+  # - name: 博客
+  #   url: blog
+  #   weight: 60
   - name: 联系我
     url: contact
-    weight: 60
+    weight: 70

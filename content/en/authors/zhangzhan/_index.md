@@ -10,7 +10,7 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Anyang tumor hospital, Anyang, Henan province
+  - name: Anyang Tumor Hospital, Anyang, Henan province.
 
 
 # Short bio (displayed in user profile at end of posts)

@@ -6,7 +6,7 @@ title: 杨雪鹰
 superuser: false
 
 # Role/position/tagline
-role: 教授,胸外科主任
+role: 教授,胸心外科主任
 
 # Organizations/Affiliations to show in About widget
 organizations:

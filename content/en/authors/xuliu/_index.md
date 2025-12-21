@@ -10,12 +10,12 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Xinqiao Hospital of Third Military Medical University, Chongqing city
+  - name: Xinqiao Hospital of Third Military Medical University, Chongqing city.
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 20
+weight: 30
 user_groups:
   - Alumni
   

@@ -6,11 +6,11 @@ title: 曹丽伟
 superuser: false
 
 # Role/position/tagline
-role: 博士，助理教授
+role: 副教授，博士生导师
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Johns Hopkins University，PI
+  - name: 南方科技大学医学院，PI
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''

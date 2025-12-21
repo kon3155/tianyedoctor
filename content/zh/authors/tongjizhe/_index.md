@@ -10,14 +10,14 @@ role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ''
+- name: '抚顺市中心医院胸外科'
   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-
+weight: 60
 user_groups:
-  - 研究生在读
+  - 毕业生
 
 # Interests to show in About widget
 # interests:

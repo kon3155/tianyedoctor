@@ -14,7 +14,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 60
+weight: 70
 user_groups:
   - 合作者
 

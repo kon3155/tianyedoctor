@@ -6,7 +6,7 @@ title: 李冉华
 superuser: false
 
 # Role/position/tagline
-role: 硕士毕业
+role: ''
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
-weight: 30
+weight: 20
 user_groups:
   - 毕业生
 
