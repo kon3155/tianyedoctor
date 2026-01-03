@@ -46,13 +46,7 @@ sections:
                     <img src="7.png" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img src="8.png" class="d-block w-100" alt="...">
-                  </div>
-                  <div class="carousel-item">
                     <img src="9.png" class="d-block w-100" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="10.png" class="d-block w-100" alt="...">
                   </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-target="#carouselControls" data-slide="prev">

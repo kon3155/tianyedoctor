@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 负责人
+  - 组织者
 ---
 
 <p class="p-self">田野，医学博士，美国约翰.霍普金斯大学医学院博士后。中国医科大学附属第四医院第一胸外科、心脏外科病房副主任，副教授、副主任医师，硕士生导师。中国抗癌康复会肺结节专委会委员，辽宁省抗癌协会肺癌专委会委员，辽宁省纵膈肿瘤学专业委员会理事。</p>

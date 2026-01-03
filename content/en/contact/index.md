@@ -13,7 +13,7 @@ sections:
         Associate Professor in Thoracic Surgery <br/>
         the Fourth Affiliated Hospital of China Medical University
       email: ono1180@gmail.com
-      phone: (86)24-62043537
+      phone: (86)24-33015252
       address:
         street: No.6 Building, Thoracic Surgery, Fourth Affiliated Hospital of China Medical University
         city: No. 4 Chongshan Rd
