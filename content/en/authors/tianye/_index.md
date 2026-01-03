@@ -101,12 +101,12 @@ user_groups:
   - Leader
 ---
 
-<p class="p-self">Dr. Tian Ye, MD, Ph.D, Postdoctoral Fellow at Johns Hopkins University School of Medicine (USA). Deputy Director of the First Department of Thoracic and Cardiac Surgery, The Fourth Affiliated Hospital of China Medical University; Associate Professor, Associate Chief Physician, and Master's Supervisor.
+Dr. Ye Tian, MD, Ph.D, Postdoctoral Fellow at Johns Hopkins University School of Medicine (USA). Deputy Director of the First Department of Thoracic and Cardiac Surgery, The Fourth Affiliated Hospital of China Medical University; Associate Professor, Associate Chief Physician, and Master's Supervisor.
 Member of the Lung Nodules Specialty Committee of the China Anti-Cancer Association Rehabilitation Committee, Member of the Lung Cancer Specialty Committee of the Liaoning Anti-Cancer Association, and Council Member of the Liaoning Mediastinal Tumor Specialty Committee.</p>
 
-<p class="p-self">After earning a Master's degree in Medicine in 2008, Dr. Tian Ye began working at The Fourth Affiliated Hospital of China Medical University. With nearly 20 years of experience in thoracic surgery, his expertise focuses on minimally invasive diagnosis and treatment in thoracic surgery, comprehensive management of refractory thoracic tumors, and cutting-edge research. From 2018 to 2019, he conducted postdoctoral research at Johns Hopkins University School of Medicine, primarily engaged in molecular and pathological studies of lung cancer.</p>
+After earning a Master's degree in Medicine in 2008, Dr. Ye Tian began working at The Fourth Affiliated Hospital of China Medical University. With nearly 20 years of experience in thoracic surgery, his expertise focuses on minimally invasive diagnosis and treatment in thoracic surgery, comprehensive management of refractory thoracic tumors, and cutting-edge research. From 2018 to 2019, he conducted postdoctoral research at Johns Hopkins University School of Medicine, primarily engaged in molecular and pathological studies of lung cancer.</p>
 
-<p class="p-self">As the first author, he has published 8 high-impact SCI papers in journals such as Nature Communications, Annals of Thoracic Surgery, and Journal of Thoracic Diseases. He has presided over or participated in 5 provincial-level or higher projects, including the National Natural Science Foundation of China, with total funding amounting to nearly 800,000 RMB. Additionally, he has contributed as a key participant in two projects that received the Second Prize of Liaoning Provincial Science and Technology Progress Award.</p>
+As the first author, he has published 8 high-impact SCI papers in journals such as Nature Communications, Annals of Thoracic Surgery, and Journal of Thoracic Diseases. He has presided over or participated in 5 provincial-level or higher projects, including the National Natural Science Foundation of China, with total funding amounting to nearly 800,000 RMB. Additionally, he has contributed as a key participant in two projects that received the Second Prize of Liaoning Provincial Science and Technology Progress Award.</p>
 <h5>Work Experience:</h5>
 
 <ul>
