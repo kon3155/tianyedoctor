@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wu Rong 
+title: Rong Wu
 
 # Is this the primary user of the site?
 superuser: false
